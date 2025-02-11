@@ -27,9 +27,8 @@ Steps to run the script
 
     Cell 13, 14, and 16 will give an analysis of price difference as new columns and also created graph
 
+![Price_Differerence_Scatter](https://github.com/user-attachments/assets/21170ab2-6bd2-4553-a20d-1d3447204832)
 ![Price_Difference_Plot](https://github.com/user-attachments/assets/cb12e9a0-31d4-41c5-8836-3290594c80e5)
-ce_Differerence_Scatter](https://github.com/user-attachments/assets/e1d9bf68-00c0-4b28-9990-e958d981e1e1)
-
 
 
 ==> Visualization: For each exchange, create a graph with trade size in USD on the horizontal axis and average cost on the vertical axis.
