@@ -18,25 +18,25 @@ Steps to run the script
     specific market within a specific month into a database (to ensure manageable data size).
 
     Cell 8, 9, and 10 will give a link to download each swap dataset
-    ![alt text](image.png)
+![alt text](image.png)
 
-    <img width="1470" alt="image" src="https://github.com/user-attachments/assets/b357c86f-8552-4762-b7ae-23c7a14d6b1f" />
+<img width="1470" alt="image" src="https://github.com/user-attachments/assets/b357c86f-8552-4762-b7ae-23c7a14d6b1f" />
 
 
 ==> Price Analysis: For each trade, compare the realized swap price to the mid-price on Binance.
 
     Cell 13, 14, and 16 will give an analysis of price difference as new columns and also created graph
 
-    ![Price_Difference_Plot](https://github.com/user-attachments/assets/cb12e9a0-31d4-41c5-8836-3290594c80e5)
-    ce_Differerence_Scatter](https://github.com/user-attachments/assets/e1d9bf68-00c0-4b28-9990-e958d981e1e1)
+![Price_Difference_Plot](https://github.com/user-attachments/assets/cb12e9a0-31d4-41c5-8836-3290594c80e5)
+ce_Differerence_Scatter](https://github.com/user-attachments/assets/e1d9bf68-00c0-4b28-9990-e958d981e1e1)
 
 
 
 ==> Visualization: For each exchange, create a graph with trade size in USD on the horizontal axis and average cost on the vertical axis.
 
     Cell 23 has various graphs for each trade
-    ![UniSwap2_Bars](https://github.com/user-attachments/assets/f674e0fc-bb4c-4e7c-a5bf-375b3066ba50)
-    ![CoSwap_bars](https://github.com/user-attachments/assets/25b8d765-10c3-488a-838d-e6568b12ba78)
+![UniSwap2_Bars](https://github.com/user-attachments/assets/f674e0fc-bb4c-4e7c-a5bf-375b3066ba50)
+![CoSwap_bars](https://github.com/user-attachments/assets/25b8d765-10c3-488a-838d-e6568b12ba78)
 
 Note: Please each cell in sequence to achieve desired result
     
